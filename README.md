@@ -1,5 +1,9 @@
 # myhoundapp
 
+## Development environment (Mandatory)
+
+node.js >= 12 npm > 6
+
 ## Project setup
 ```
 npm install
@@ -20,5 +24,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Check out the demo
+See [Demo](https://john.gamez/test/).

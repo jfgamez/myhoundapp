@@ -23,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Check out the demo
-See [Demo](https://myhoundapp.s3.us-east-2.amazonaws.com/index.html).
